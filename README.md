@@ -1,5 +1,7 @@
 # test-probot
 
+This is a test of probot
+
 A Clojure library designed to ... well, that part is up to you.
 
 ## Usage

@@ -1,0 +1,3 @@
+updateBranch: true
+deleteBranchAfterMerge: true
+reportStatus: true
